@@ -1,0 +1,39 @@
+Seetha, a maths teacher explained about Matrix addition, subraction and multiplication in her class.
+She assigned different task to her students.
+She asked Ankit to add two matrix, Banu to subtract two matrix and Janu to multiply two matrix. Ankit,
+Banu and Janu approached Karthick to complete their task.
+Karthick is ready to help his friends with single program. So he asked his friends to give a square
+matrix only. Help Karthick to write the program.
+
+Input format
+Matrix size in first line-N(Only one value)
+NxN elements in next rows for first matrix
+NxN elements in next rows for second matrix
+
+Refer Sample Input   
+
+Output format
+Display result of addition, subtraction and multiplication as shown in sample Output
+
+Code contraints
+Only Square Matrix
+
+Sample testcases
+Input 1                            Output 1
+3                                  Sum
+                                   4 4 4
+1 2 3                              4 4 4
+1 2 3                              4 4 4
+1 2 3                              Difference
+                                   -2 0 2
+3 2 1                              -2 0 2
+3 2 1                              -2 0 2
+3 2 1                              Multiply
+                                   18 12 6
+                                   18 12 6
+                                   18 12 6
+
+ Note:
+The program will not be evaluated if "Submit Code" is not done atleast once
+Extra spaces and new line characters in the program Output will also result in the testcase failing
+                               

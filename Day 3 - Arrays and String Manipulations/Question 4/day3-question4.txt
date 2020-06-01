@@ -10,4 +10,10 @@ following category.
 2. strictly continuous numbers ex. 1234,12,5678
 3. all same digits ex. 1111,88
 
-Input must be the entire number plate information as a single string
+Input must be the entire number plate information as a single string.
+
+Input format
+Vehicle number as string
+
+Output format
+State Name
