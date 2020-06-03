@@ -1,0 +1,18 @@
+Write program to find factorial of a non-negative integer (entered by the user) using recursion.
+
+Use below function:
+int find_factorial(int)
+
+Input format
+An integer
+
+Output format
+Factorial value of the given number
+
+Sample testcases
+Input 1                       Output 1
+5                             120
+
+Note:
+The program will not be evaluated if "Submit Code" is not done atleast once
+Extra spaces and new line characters in the program Output will also result in the testcase failing
