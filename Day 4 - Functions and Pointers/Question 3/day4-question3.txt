@@ -1,0 +1,21 @@
+Write a program to swap two number using pointers. Implement the function to swap numbers
+
+Input format
+Two integers
+
+Output format
+Swapped numbers as displayed on sample output.
+
+Sample testcases
+Input 1                         Output 1
+4                               Before Swap Num1= 4 and Num2= 5
+5                               After Swap Num1= 5 and Num2= 4
+
+Time Limit: 10ms
+Memory Limit: 256kb
+Code Size: 1024kb
+
+Note:
+The program will not be evaluated if "Submit Code" is not done atleast once
+Extra spaces and new line characters in the program Output will also result in the testcase failing
+                               
